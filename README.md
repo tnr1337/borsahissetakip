@@ -1,4 +1,4 @@
-# BorsaPro (10x Upgrade)
+# BorsaPro
 
 Modern, profesyonel borsa takip uygulaması.
 
